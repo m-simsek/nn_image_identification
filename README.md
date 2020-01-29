@@ -35,6 +35,6 @@ build image
 
     docker build --rm -f Dockerfile -t nn_image_identification .
 
-run container --> automatically starting script
+run container --> automatically starting script (main.py)
 
     docker run --rm -it -p 0.0.0.0:6006:6006 nn_image_identification
