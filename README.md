@@ -27,7 +27,7 @@ Achieved results:
     accuracy of shape: 100%
     avg. loss: 0.0023
 
-**Before execution, unpack the images from training_images and testing_images folders or generate new images using the image generator.**
+**Before execution, unpack the images from training_images and testing_images folders or generate new images using the image generator and copy them to the folders.**
     
 This prototyp was developed as an container-based application to minimize the influence of the application to the execution environment and its operating system. Use the following commands to execute the docker-based application:
 
